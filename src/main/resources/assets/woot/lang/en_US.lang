@@ -240,8 +240,8 @@ book.Woot:introduction.0=Welcome to the user manual for your new Mob Factory, th
 book.Woot:introduction.1=So sit back and relax as you peruse this handy manual to learn how to build, program and safely operate your new factory.
 
 book.Woot:crafting.title=How To Craft
-book.Woot:crafting.0=You will need two basic item types to start building the components of your factory. A Yah Hammer and some dyes. You use the hammer, some obsidian to hit it against, a dye and some materials to craft. You get the hammer, dye and obsidian back after each craft.
-book.Woot:crafting.1=Create one of each of the seven dyes and they will serve you the lifetime of your factory.
+book.Woot:crafting.0=You will need two basic item types to start building the components of your factory. A Yah Hammer and some dies. You use the hammer, some obsidian to hit it against, a die and some materials to craft. You get the hammer, die and obsidian back after each craft.
+book.Woot:crafting.1=Create one of each of the seven dies and they will serve you the lifetime of your factory.
 
 book.Woot:resoures.title=Resources
 book.Woot:resources.0=The basic building material for the factories is UnderIron. It doesn't spawn in the world. You will need to create Pulverised UnderIorn using the Yah Hammer, a Mesh Die, Iron and Nether Brick. The just smelt it to the UnderIron.
